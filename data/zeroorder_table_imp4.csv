@@ -1,0 +1,576 @@
+"Study","Effect","yi","vi","PCMeasure","Substance","Timeframe","SUMeasure","Age","Gender","Europe","AAO","AfricaME","LatinAmerica","Longitudinal","pubyear","Number","PC_outcome","Including_peer_use","Including_other_peer_connectedness","AddHealth"
+"Agan_2015",1,0.4,0.00415841584158416,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",2,0.42,0.00407722772277228,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",3,0.1,0.0049009900990099,"Sociometric Likeability","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",4,0.01,0.00495,"Sociometric Likeability","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",5,0.33,0.00441138613861386,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",6,0.39,0.00419752475247525,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",7,0.01,0.00495,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",8,0.01,0.00495,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",9,0.32,0.00444356435643564,"Sociometric Popularity","Marijuana Use","Lifetime Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",10,0.31,0.00447475247524752,"Sociometric Popularity","Marijuana Use","Lifetime Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",11,-0.02,0.00494851485148515,"Sociometric Likeability","Marijuana Use","Lifetime Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Agan_2015",12,-0.04,0.00494257425742574,"Sociometric Likeability","Marijuana Use","Lifetime Use","Frequency of Use",16.95,50,1,0,0,0,"0",19,0,0,"no","no",0
+"Allen_2005",1,0.06,0.00547472527472527,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"0",9,0,0,"no","no",0
+"Allen_2005",2,0.05,0.00548076923076923,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"1",9,0,0,"no","no",0
+"Allen_2005",3,-0.05,0.00548076923076923,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"0",9,0,0,"no","no",0
+"Allen_2005",4,0.09,0.00545,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"1",9,0,0,"no","no",0
+"Allen_2005",5,-0.22,0.00522857142857143,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"0",9,0,0,"no","no",0
+"Allen_2005",6,-0.13,0.00540164835164835,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.36,47.02,0,0,0,0,"1",9,0,0,"no","no",0
+"Allen_2006",1,-0.04,0.00567272727272727,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Problem",14.1745571708912,46.9,0,0,0,0,"0",10,0,0,"no","no",0
+"Allen_2006",2,0.07,0.00565397727272727,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.7734157224325,46.9,0,0,0,0,"1",10,0,0,"no","no",0
+"Allen_2006",3,-0.1,0.005625,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.5409767207131,46.9,0,0,0,0,"1",10,0,1,"no","no",0
+"Allen_2006",4,-0.01,0.00568125,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.9697632379504,46.9,0,0,0,0,"0",10,0,1,"no","no",0
+"Allen_2006",5,-0.19,0.00547670454545454,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.4542388584372,46.9,0,0,0,0,"0",10,0,0,"no","no",0
+"Allen_2006",6,-0.1,0.005625,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.5516450675111,46.9,0,0,0,0,"1",10,0,0,"no","no",0
+"Allen_2006",7,-0.01,0.00568125,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.6483980910061,46.9,0,0,0,0,"1",10,0,0,"no","no",0
+"Allen_2006",8,-0.07,0.00565397727272727,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Problem",13.8748932934506,46.9,0,0,0,0,"0",10,0,0,"no","no",0
+"Allen_2012",3,0.11,0.00637354838709677,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",13.35,46.7,0,0,0,0,"0",16,0,0,"no","no",0
+"Allen_2012",4,-0.11,0.00637354838709677,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",13.35,46.7,0,0,0,0,"0",16,0,0,"no","no",0
+"Allen_2012",5,0.22,0.00613935483870968,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",13.35,46.7,0,0,0,0,"1",16,0,0,"no","no",0
+"Allen_2012",6,-0.13,0.00634258064516129,"aaSociometric Friendship","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",13.35,46.7,0,0,0,0,"1",16,0,0,"no","no",0
+"Allen_2020",1,-0.02,0.00644903225806452,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",15.2,46.7,0,0,0,0,"0",24,0,0,"no","no",0
+"Allen_2020",2,0.02,0.00644903225806452,"Social Competency","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",15.2,46.7,0,0,0,0,"1",24,0,0,"no","no",0
+"Allen_2020",3,0.12,0.00635870967741936,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",15.2,46.7,0,0,0,0,"0",24,0,0,"no","no",0
+"Allen_2020",4,0.15,0.00630645161290323,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",15.2,46.7,0,0,0,0,"1",24,0,0,"no","no",0
+"AllenB_2020b",1,0.35,0.00482142857142857,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","Frequency of Use",15.2,46.7,0,0,0,0,"0",24,0,0,"no","no",0
+"Bauman_2007",1,-0.02,0.000209471919530595,"aaSociometric Friendship","Nicotine Use","Recent Use","Any Use",12.5719875320792,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",2,0.02,0.000209471919530595,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",11.5830929689109,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",3,0,0.000209555741827326,"aaSociometric Friendship","Marijuana Use","Recent Use","Any Use",13.6174584515393,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",4,-0.02,0.000209471919530595,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",12.5563705824316,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",5,-0.01,0.000209534786253143,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",13.1317468360066,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",6,-0.03,0.000209367141659682,"Time Spent with Friends","Nicotine Use","Recent Use","Any Use",12.4863548036665,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",7,0.04,0.000209220452640402,"Time Spent with Friends","Alcohol Use","Recent Use","Any Use",11.9984329612926,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",8,0.01,0.000209534786253143,"Time Spent with Friends","Marijuana Use","Recent Use","Any Use",11.0417399825528,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",9,-0.03,0.000209367141659682,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",13.9545462606475,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",10,-0.01,0.000209534786253143,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",12.3535063862801,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",11,-0.02,0.000209471919530595,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.0136188464239,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",12,0.03,0.000209367141659682,"Support from Friends","Alcohol Use","Recent Use","Any Use",10.650723409839,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",13,0,0.000209555741827326,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.9896378638223,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",14,-0.02,0.000209471919530595,"Support from Friends","Other Drug Use","Recent Use","Any Use",13.2405745005235,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",15,-0.01,0.000209534786253143,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.6956608528271,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",16,-0.04,0.000209220452640402,"aaSociometric Friendship","Nicotine Use","Recent Use","Any Use",11.7109314166009,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",17,0.01,0.000209534786253143,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",13.9191819718108,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",18,0.01,0.000209534786253143,"aaSociometric Friendship","Marijuana Use","Recent Use","Any Use",10.6933265291154,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",19,-0.02,0.000209471919530595,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",12.9707235665992,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",20,-0.01,0.000209534786253143,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",13.1219215784222,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",21,0.01,0.000209534786253143,"Time Spent with Friends","Nicotine Use","Recent Use","Any Use",12.2090453589335,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",22,0.03,0.000209367141659682,"Time Spent with Friends","Alcohol Use","Recent Use","Any Use",10.9108063131571,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",23,-0.01,0.000209534786253143,"Time Spent with Friends","Marijuana Use","Recent Use","Any Use",11.9077517874539,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",24,0,0.000209555741827326,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",12.5466808537021,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",25,-0.02,0.000209471919530595,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",13.2826351225376,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",26,-0.04,0.000209220452640402,"aaSociometric Friendship","Nicotine Use","Recent Use","Any Use",10.0458143372089,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",27,0.01,0.000209534786253143,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.8468998596072,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",28,0.01,0.000209534786253143,"Support from Friends","Marijuana Use","Recent Use","Any Use",13.0698007857427,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",29,-0.01,0.000209534786253143,"Support from Friends","Other Drug Use","Recent Use","Any Use",13.2556061111391,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",30,-0.02,0.000209471919530595,"Support from Friends","Other Drug Use","Recent Use","Any Use",11.2631153231487,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",31,-0.04,0.000209220452640402,"aaSociometric Friendship","Nicotine Use","Recent Use","Any Use",11.0499882083386,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",32,-0.03,0.000209367141659682,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12.4940244033933,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",33,-0.03,0.000209367141659682,"aaSociometric Friendship","Marijuana Use","Recent Use","Any Use",10.7569642029703,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",34,-0.02,0.000209471919530595,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",13.0238587921485,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",35,-0.03,0.000209367141659682,"aaSociometric Friendship","Other Drug Use","Recent Use","Any Use",11.8066912153736,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",36,-0.03,0.000209367141659682,"Time Spent with Friends","Nicotine Use","Recent Use","Any Use",12.6578773967922,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",37,-0.02,0.000209471919530595,"Time Spent with Friends","Alcohol Use","Recent Use","Any Use",11.4700230667368,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",38,-0.03,0.000209367141659682,"Time Spent with Friends","Marijuana Use","Recent Use","Any Use",12.656759952195,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",39,-0.02,0.000209471919530595,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",13.9165568947792,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",40,-0.02,0.000209471919530595,"Time Spent with Friends","Other Drug Use","Recent Use","Any Use",13.1251996615902,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",41,-0.04,0.000209220452640402,"Support from Friends","Nicotine Use","Recent Use","Any Use",10.0133918998763,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",42,-0.03,0.000209367141659682,"Support from Friends","Alcohol Use","Recent Use","Any Use",13.637985188514,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",43,-0.03,0.000209367141659682,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.241107837297,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",44,-0.02,0.000209471919530595,"Support from Friends","Other Drug Use","Recent Use","Any Use",13.2969064870849,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Bauman_2007",45,-0.03,0.000209367141659682,"Support from Friends","Other Drug Use","Recent Use","Any Use",11.1005578618497,45,0,0,0,0,"0",11,0,0,"no","no",0
+"Becker_2007",3,0.02,0.00699020979020979,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.4861912338715,0,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",4,-0.03,0.00598263473053892,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.5504903103644,100,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",5,0.3,0.0056875,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.5682768665906,0,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",6,0.08,0.00628860759493671,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.4909974439954,100,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",7,0.34,0.00618461538461538,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.4954646213865,0,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",8,0.14,0.00587065868263473,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.5407450854499,100,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",9,0.47,0.004869375,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.5505298742745,0,0,0,0,0,"0",11,0,1,"no","no",0
+"Becker_2007",10,0.14,0.00620506329113924,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.5222843858832,100,0,0,0,0,"0",11,0,1,"no","no",0
+"Bond_2007",1,0.0313355208006566,0.00192678765271868,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",13.434619058622,NA,0,1,0,0,"1",11,0,0,"no","no",0
+"Bond_2007",2,-0.0143871457630392,0.00104354166426206,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",15.6802172791213,NA,0,1,0,0,"1",11,0,0,"no","no",0
+"Bond_2007",3,-0.0143871457630392,0.00104354166426206,"Support from Friends","Marijuana Use","Recent Use","Any Use",10.9913481650874,NA,0,1,0,0,"1",11,0,0,"no","no",0
+"Chan_2019",1,0.04,0.000877328646748682,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",15.81,42,0,0,0,0,"0",23,0,0,"no","no",0
+"Chan_2019",2,0.02,0.000878383128295255,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.81,42,0,0,0,0,"0",23,0,0,"no","no",0
+"Chan_2019",3,0.04,0.000877328646748682,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",15.81,42,0,0,0,0,"1",23,0,0,"no","no",0
+"Chan_2019",4,0,0.000878734622144113,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.81,42,0,0,0,0,"1",23,0,0,"no","no",0
+"ChoukasBradley_2015",5,0.001,0.00276242817679558,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",6,0.06,0.0027524861878453,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",7,0.07,0.00274889502762431,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",8,0.19,0.00266270718232044,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",9,0.09,0.00274005524861878,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",10,0.23,0.00261629834254144,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",11,0.12,0.00272265193370166,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",12,0.35,0.00242403314917127,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",13,0.06,0.0027524861878453,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",14,0.38,0.00236353591160221,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",15,0.11,0.00272900552486188,"Sociometric Likeability","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"ChoukasBradley_2015",16,0.39,0.00234226519337017,"Sociometric Popularity","Alcohol Use","Recent Use","Problem",15.08,46.4,0,0,0,0,"0",19,0,0,"no","no",0
+"Curlee_2019",7,0.35,0.00423913043478261,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"Curlee_2019",8,0.25,0.00452898550724638,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"Curlee_2019",9,0.24,0.00455265700483092,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"Curlee_2019",10,0.34,0.00427246376811594,"Sociometric Isolation","Alcohol Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"Curlee_2019",11,0.2,0.00463768115942029,"Sociometric Isolation","Nicotine Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"Curlee_2019",12,0.29,0.00442463768115942,"Sociometric Isolation","Marijuana Use","Recent Use","Frequency of Use",11.565,52.4,0,0,0,0,"1",23,0,0,"no","no",0
+"de_Water_2016",1,0.33,0.00524176470588235,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",15.22,52,1,0,0,0,"0",20,0,0,"no","no",0
+"de_Water_2016",2,0.36,0.00512,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",15.22,52,1,0,0,0,"0",20,0,0,"no","no",0
+"de_Water_2016",3,0.27,0.00545352941176471,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.22,52,1,0,0,0,"0",20,0,0,"no","no",0
+"Deutsch_2014",4,0.06,0.000849445865302643,"aaSociometric Friendship","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",5,0.16,0.000830690537084399,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",6,0.11,0.000842199488491049,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",7,0.08,0.000847058823529412,"aaSociometric Friendship","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2014",8,0.14,0.000835805626598466,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2014",9,0.08,0.000847058823529412,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,100,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2014",10,0.04,0.000851150895140665,"aaSociometric Friendship","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",11,0.15,0.000833333333333333,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",12,0.13,0.000838107416879795,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"0",18,0,0,"no","no",1
+"Deutsch_2014",13,0.11,0.000842199488491049,"aaSociometric Friendship","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2014",14,0.14,0.000835805626598466,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2014",15,0.12,0.000840238704177323,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.79,0,0,0,0,0,"1",18,0,0,"no","no",1
+"Deutsch_2017",1,0.0199035504193916,0.000872165150088923,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",2,0.0227982563728917,0.000871841639079546,"aaSociometric Friendship","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",3,-0.0114278252174053,0.000954435968073225,"aaSociometric Friendship","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",4,0.169572013360584,0.000810887814246621,"Time Spent with Friends","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",5,0.168619618603678,0.000808968727409248,"Time Spent with Friends","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",6,0.208478527181546,0.000854682793744457,"Time Spent with Friends","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",7,0.02,0.00084,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",8,0.09,0.000833529411764706,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",9,0.05,0.000838235294117647,"aaSociometric Friendship","Alcohol Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",10,0.08,0.000834957983193277,"aaSociometric Friendship","Alcohol Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",11,0.03,0.000839579831932773,"aaSociometric Friendship","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",12,0.09,0.000833529411764706,"aaSociometric Friendship","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",13,0.02,0.00084,"aaSociometric Friendship","Nicotine Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",14,0.03,0.000839579831932773,"aaSociometric Friendship","Nicotine Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",15,-0.01,0.000840252100840336,"aaSociometric Friendship","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",16,0.07,0.000836218487394958,"aaSociometric Friendship","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",17,0.03,0.000839579831932773,"aaSociometric Friendship","Marijuana Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",18,0.03,0.000839579831932773,"aaSociometric Friendship","Marijuana Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",19,0.18,0.000813109243697479,"Time Spent with Friends","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",20,0.21,0.00080327731092437,"Time Spent with Friends","Alcohol Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",21,0.22,0.000799663865546219,"Time Spent with Friends","Alcohol Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",22,0.21,0.00080327731092437,"Time Spent with Friends","Alcohol Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",23,0.17,0.000816050420168067,"Time Spent with Friends","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",24,0.21,0.00080327731092437,"Time Spent with Friends","Nicotine Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",25,0.2,0.00080672268907563,"Time Spent with Friends","Nicotine Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",26,0.21,0.00080327731092437,"Time Spent with Friends","Nicotine Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",27,0.21,0.00080327731092437,"Time Spent with Friends","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",28,0.22,0.000799663865546219,"Time Spent with Friends","Marijuana Use","Lifetime Use","Any Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"Deutsch_2017",29,0.17,0.000816050420168067,"Time Spent with Friends","Marijuana Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"0",21,0,0,"no","no",1
+"Deutsch_2017",30,0.19,0.00081,"Time Spent with Friends","Marijuana Use","aNo Frequency Specified","Frequency of Use",15.71,50,0,0,0,0,"1",21,0,0,"no","no",1
+"DeutschSteinley_2017",1,0.08,0.000452253072371416,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.0009854398668,NA,0,0,0,0,"0",21,0,0,"no","no",1
+"DeutschSteinley_2017",2,0.09,0.000451479289940828,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",16.6941960137337,NA,0,0,0,0,"1",21,0,0,"no","no",1
+"DeutschSteinley_2017",3,-0.01,0.000455120619025944,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",13.0456587504596,NA,0,0,0,0,"1",21,0,1,"no","no",1
+"DeutschSteinley_2017",4,0.03,0.000454756486117433,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",13.054010136053,NA,0,0,0,0,"0",21,0,0,"no","no",1
+"DeutschSteinley_2017",5,-0.06,0.000453527537551206,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",16.3555987300351,NA,0,0,0,0,"0",21,0,0,"no","no",1
+"DeutschSteinley_2017",6,0.2,0.000436959490213928,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",14.9907831419259,NA,0,0,0,0,"1",21,0,0,"no","no",1
+"DeutschSteinley_2017",7,-0.21,0.000435093309057806,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.5487560722977,NA,0,0,0,0,"1",21,0,1,"no","no",1
+"DeutschSteinley_2017",8,-0.01,0.000455120619025944,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",13.4660677211359,NA,0,0,0,0,"0",21,0,0,"no","no",1
+"Dijkstra_2010",3,0.05,0.000596234309623431,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.6,100,1,0,0,0,"0",14,0,1,"no","no",0
+"Dijkstra_2010",4,0.13,0.00058762701733413,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.6,100,1,0,0,0,"0",14,0,1,"no","no",0
+"Dijkstra_2010",5,0.03,0.000611070336391437,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.6,0,1,0,0,0,"0",14,0,1,"no","no",0
+"Dijkstra_2010",6,0.15,0.000597859327217125,"Sociometric Likeability","Compound Measure of Drug Use","aNo Frequency Specified","aaNo Measure Specified",13.6,0,1,0,0,0,"0",14,0,1,"no","no",0
+"Duell_2020",1,0.238,0.00132493820224719,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",16.1,44,0,0,0,0,"0",24,0,0,"no","no",0
+"Duell_2020",2,0.321,0.00125977387640449,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",16.1,44,0,0,0,0,"1",24,0,0,"no","no",0
+"Dumas_2019",3,0.19,0.000979573170731707,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"0",23,0,0,"no","no",0
+"Dumas_2019",4,0.16,0.000990243902439024,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"1",23,0,1,"no","no",0
+"Dumas_2019",5,0.03,0.00101534552845528,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"0",23,0,0,"no","no",0
+"Dumas_2019",6,0.25,0.000952743902439024,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"1",23,0,0,"no","no",0
+"Dumas_2019",7,0.23,0.0009625,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"0",23,0,1,"no","no",0
+"Dumas_2019",8,0.06,0.00101260162601626,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.98,50,0,0,0,0,"1",23,0,0,"no","no",0
+"Elisaus_2018",1,0.00917908556883785,0.00325773788512145,"aSelf-Reported Number of Friends","Binge Drinking or Drunkenness","Recent Use","Any Use",14.97,46.6,1,0,0,0,"0",22,0,0,"no","no",0
+"Elisaus_2018",2,0.128040195348747,0.00216027639614861,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Any Use",14.97,46.6,1,0,0,0,"0",22,0,0,"no","no",0
+"Elisaus_2018",3,0.202119796394407,0.00204296536781943,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Any Use",14.97,46.6,1,0,0,0,"0",22,0,0,"no","no",0
+"Elisaus_2018",4,0.283097354831061,0.000306719278807703,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Any Use",14.97,46.6,1,0,0,0,"0",22,0,0,"no","no",0
+"Elisaus_2018",5,0.288764448661577,0.000767298751949088,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Any Use",14.97,46.6,1,0,0,0,"0",22,0,0,"no","no",0
+"Engels_2006",3,0.13,0.000292676391783269,"Sociometric Likeability","Nicotine Use","Recent Use","Quantity of Use",14.4,57.5,1,0,0,0,"0",10,0,0,"no","no",0
+"Engels_2006",4,0.1,0.000294730574575767,"Sociometric Likeability","Alcohol Use","Recent Use","Quantity of Use",14.4,57.5,1,0,0,0,"0",10,0,0,"no","no",0
+"Fang_2003",1,0.249628918343248,0.0271379218242749,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",11.5,0,0,1,0,0,"0",7,0,0,"no","no",0
+"Fang_2003",2,0.0599267507838492,0.0162650362472119,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",13.66,0,0,1,0,0,"0",7,0,0,"no","no",0
+"Fang_2003",3,0.26680350333635,0.0203444924271543,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",15.67,0,0,1,0,0,"0",7,0,0,"no","no",0
+"Fang_2003",4,0.0387372234809829,0.0138059156577276,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",11.68,100,0,1,0,0,"0",7,0,0,"no","no",0
+"Fang_2003",5,0.145256841659751,0.00964914498373909,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",13.82,100,0,1,0,0,"0",7,0,0,"no","no",0
+"Fang_2003",6,-0.199252666319891,0.00804472061985986,"Sociometric Isolation","Nicotine Use","Lifetime Use","Any Use",15.74,100,0,1,0,0,"0",7,0,0,"no","no",0
+"Franken_2017",1,0.2,0.00087431693989071,"Sociometric Popularity","Alcohol Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"Franken_2017",2,-0.06,0.000907468123861566,"Sociometric Likeability","Alcohol Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"Franken_2017",3,0.09,0.000903369763205829,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"Franken_2017",4,0.17,0.000884426229508197,"Sociometric Popularity","Nicotine Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"Franken_2017",5,-0.02,0.000910382513661202,"Sociometric Likeability","Nicotine Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"Franken_2017",6,0.05,0.000908469945355191,"aaSociometric Friendship","Nicotine Use","Lifetime Use","Frequency of Use",12.7,50,1,0,0,0,"0",21,0,0,"no","no",0
+"French_2016",1,0.23,0.00853243243243243,"Sociometric Popularity","Nicotine Use","Lifetime Use","Any Use",13.6224474007916,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",2,-0.26,0.00981473684210526,"Sociometric Popularity","Nicotine Use","Lifetime Use","Any Use",13.7131896225922,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",3,0.27,0.00996881720430107,"Sociometric Popularity","Nicotine Use","Lifetime Use","Any Use",13.4465908463765,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",4,0.02,0.00689379310344828,"Sociometric Popularity","Nicotine Use","Lifetime Use","Any Use",14.2860462637339,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",5,0.16,0.00877837837837838,"Sociometric Likeability","Nicotine Use","Lifetime Use","Any Use",15.9558591788821,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",6,-0.37,0.00908526315789474,"Sociometric Likeability","Nicotine Use","Lifetime Use","Any Use",13.5978697363473,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",7,-0.08,0.0106838709677419,"Sociometric Likeability","Nicotine Use","Lifetime Use","Any Use",13.370786908986,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",8,-0.04,0.00688551724137931,"Sociometric Likeability","Nicotine Use","Lifetime Use","Any Use",14.7371014451794,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",9,0.05,0.00898648648648649,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",14.6574635323789,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",10,0,0.0105263157894737,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",14.8973861019779,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",11,0.19,0.0103645161290323,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",15.5272483627498,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",12,0.12,0.00679724137931034,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",13.3536416345462,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",13,-0.08,0.00895135135135135,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",15.6340830675047,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",14,-0.31,0.00951473684210526,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",14.2561831520591,0,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",15,-0.15,0.010510752688172,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",15.020913274698,100,0,1,0,0,"0",20,0,0,"no","no",0
+"French_2016",16,-0.01,0.00689586206896552,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",14.3028082553949,0,0,1,0,0,"0",20,0,0,"no","no",0
+"FujimotoValente_2013",1,0.0992572445775455,0.000102090823336194,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",2,0.112676299155993,0.000151070168236257,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",3,0.011289996397051,0.000186481874398784,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",4,0.169967745155042,0.000895937633928176,"Sociometric Isolation","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",5,0.102227300331151,0.00123359664661401,"Sociometric Isolation","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",6,-0.0695468369436689,0.00176749272813674,"Sociometric Isolation","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",7,-0.0575402608267272,0.000215307178729229,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",8,-0.0392438382185396,0.000328137034141473,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"FujimotoValente_2013",9,0.018352529867198,0.000378478178752157,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",15.04,48.32,0,0,0,0,"0",17,0,0,"no","no",1
+"Galen_2003",1,0.02,0.002975,"Sociometric Popularity","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",12.2634710032959,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Galen_2003",2,0.08,0.00295714285714286,"Sociometric Popularity","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",12.5733126682695,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Galen_2003",3,0.14,0.00291785714285714,"Sociometric Popularity","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",11.867186666606,52.7,0,0,0,0,"1",7,0,1,"no","no",0
+"Galen_2003",4,0.08,0.00295714285714286,"Sociometric Popularity","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",11.815407935204,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Galen_2003",5,-0.01,0.00297589285714286,"Social Competency","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",12.0343804833479,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Galen_2003",6,0.04,0.00297142857142857,"Social Competency","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",11.9095110224094,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Galen_2003",7,0.14,0.00291785714285714,"Social Competency","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",11.8337077178527,52.7,0,0,0,0,"1",7,0,1,"no","no",0
+"Galen_2003",8,0.03,0.00297351190476191,"Social Competency","Compound Measure of Drug Use","Recent Use","aaNo Measure Specified",12.2065878451336,52.7,0,0,0,0,"1",7,0,0,"no","no",0
+"Gallupe_2015",5,-0.04,7.47921192598697e-05,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",14.75,50,0,0,0,0,"1",19,0,0,"no","no",1
+"Gallupe_2015",6,0.102,7.41325942018129e-05,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",14.75,50,0,0,0,0,"1",19,0,0,"no","no",1
+"Gallupe_2015",7,0.021,7.48789422428646e-05,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",14.75,50,0,0,0,0,"1",19,0,0,"no","no",1
+"Gallupe_2015",8,0.043,7.47734661772417e-05,"aaSociometric Friendship","Alcohol Use","Recent Use","Frequency of Use",14.75,50,0,0,0,0,"1",19,0,0,"no","no",1
+"Goldberg_2016",1,0.03,0.0017683185840708,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",16.25,47.8,1,0,0,0,"0",20,0,0,"no","no",0
+"Goldberg_2016",2,0.11,0.00174849557522124,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",16.25,47.8,1,0,0,0,"0",20,0,0,"no","no",0
+"Goldberg_2016",3,0.09,0.00175557522123894,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",16.25,47.8,1,0,0,0,"0",20,0,0,"no","no",0
+"Gommans_2017",2,0.25,0.00125670241286863,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",14.73,48.4,1,0,0,0,"0",21,0,0,"no","no",0
+"killeya-jones_2006",1,0.33,0.00536807228915663,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",12.2721078076214,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",2,0.02,0.00602168674698795,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",12.3031982624345,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",3,0.22,0.00573253012048193,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",12.5014898402244,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",4,0.2,0.00578313253012048,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",12.7028553707339,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",5,0.21,0.00575843373493976,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",12.3450931992196,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",6,0.12,0.0064,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",12.2826985360309,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",7,0.07,0.00646168831168831,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",12.485927297473,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",8,0.13,0.00638376623376623,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",12.5489944751933,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",9,0.2,0.00623376623376623,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",12.5405404702388,49,0,0,0,0,"1",10,0,0,"no","no",0
+"killeya-jones_2006",10,0.21,0.00620714285714286,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",12.6112142188661,49,0,0,0,0,"1",10,0,0,"no","no",0
+"kim_2010",1,-0.02,0.000313747645951036,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",15.187,49.9,0,1,0,0,"1",14,0,0,"yes","no",0
+"Kim_2018",1,-0.0821951551121134,0.00118614615169175,"aSelf-Reported Number of Friends","Nicotine Use","Recent Use","Any Use",13.8006633454934,46.5,0,0,1,0,"0",22,0,0,"no","no",0
+"Kim_2018",2,-0.132243736212232,0.00115032073048798,"Loneliness","Nicotine Use","Recent Use","Any Use",14.7431691298261,46.5,0,0,1,0,"0",22,0,0,"no","no",0
+"Kim_2018",3,-0.0154620688670291,0.000940761485702702,"aSelf-Reported Number of Friends","Alcohol Use","Recent Use","Any Use",13.8631433872506,46.5,0,0,1,0,"0",22,0,0,"no","no",0
+"Kim_2018",4,-0.116939943844872,0.000906111101254656,"Loneliness","Alcohol Use","Recent Use","Any Use",13.2977806311101,46.5,0,0,1,0,"0",22,0,0,"no","no",0
+"kobus_2009",1,0.0334942232123881,0.00947033472680285,"Sociometric Isolation","Nicotine Use","Recent Use","Frequency of Use",10.2701821140945,51.5,0,0,0,0,"0",13,0,0,"no","no",0
+"kobus_2009",2,0.0290945160556137,0.00947732511964748,"Sociometric Isolation","Alcohol Use","Recent Use","Frequency of Use",13.5302698267624,51.5,0,0,0,0,"0",13,0,0,"no","no",0
+"kobus_2009",3,-0.159107658952572,0.00886931887859105,"Sociometric Isolation","Marijuana Use","Recent Use","Frequency of Use",12.6089204763994,51.5,0,0,0,0,"0",13,0,0,"no","no",0
+"LansfordA_2009",1,0.13,0.00305310559006211,"Sociometric Popularity","Compound Measure of Drug Use","Recent Use","Quantity of Use",12.23,43.5,0,0,0,0,"0",13,0,0,"no","no",0
+"LansfordA_2009",2,0.02,0.00310434782608696,"aaSociometric Friendship","Compound Measure of Drug Use","Recent Use","Quantity of Use",12.23,43.5,0,0,0,0,"0",13,0,0,"no","no",0
+"LansfordB_2009",9,0.27,0.00285261538461538,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",10,0.12,0.00303261538461538,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",11,0.25,0.00288461538461538,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",12,0.13,0.00302492307692308,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",13,0.18,0.00297723076923077,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",14,0.08,0.00305723076923077,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",15,0.25,0.00288461538461538,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",16,0.16,0.00299815384615385,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",17,0.23,0.00291415384615385,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,1,"no","no",0
+"LansfordB_2009",18,-0.05,0.00306923076923077,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,1,"no","no",0
+"LansfordB_2009",19,0.21,0.00294123076923077,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,1,"no","no",0
+"LansfordB_2009",20,0.12,0.00303261538461538,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,1,"no","no",0
+"LansfordB_2009",21,0.18,0.00297723076923077,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",22,-0.05,0.00306923076923077,"aaSociometric Friendship","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",23,0.3,0.0028,"Sociometric Popularity","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"LansfordB_2009",24,0.16,0.00299815384615385,"Sociometric Likeability","Alcohol Use","Lifetime Use","Any Use",12.23,44.3,0,0,0,0,"1",13,0,0,"no","no",0
+"Laszkowski_2008",1,-0.12,0.00132830188679245,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",14.8795949309133,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",2,-0.28,0.00124204851752022,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",15.6440994567238,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",3,-0.04,0.0013455525606469,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",15.2564948643558,100,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",4,0.16,0.00131320754716981,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",14.025281697046,100,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",5,-0.1,0.00188931297709924,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",15.8414081353694,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",6,0.29,0.00174790076335878,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",15.5958643034101,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",7,-0.13,0.00187614503816794,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",15.4706713980995,100,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",8,0.17,0.00185324427480916,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",15.8637659652159,100,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",9,-0.05,0.00175925925925926,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",15.9702412304468,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",10,0.3,0.00160493827160494,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",15.7016524393111,0,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",11,-0.01,0.00176349206349206,"Sociometric Likeability","Alcohol Use","aNo Frequency Specified","Problem",14.8387148994952,100,0,0,0,0,"0",12,0,0,"no","no",0
+"Laszkowski_2008",12,0.21,0.00168589065255732,"Sociometric Popularity","Alcohol Use","aNo Frequency Specified","Problem",14.6048304983415,100,0,0,0,0,"0",12,0,0,"no","no",0
+"lee_2012",1,0.417038768056869,0.00276205286537917,"Time Spent with Friends","Other Drug Use","Lifetime Use","Any Use",14.9310960290255,48.92,0,1,0,0,"0",16,0,0,"no","no",0
+"Lee_2015",1,0.24,0.00123350785340314,"Time Spent with Friends","Marijuana Use","Recent Use","Frequency of Use",15,49,0,0,0,0,"1",19,0,0,"no","no",0
+"Lee_2015",2,0.23,0.00123965968586387,"Time Spent with Friends","Alcohol Use","Recent Use","Frequency of Use",15,49,0,0,0,0,"1",19,0,0,"no","no",0
+"Lee_2015",3,0.19,0.00126164921465969,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",15,49,0,0,0,0,"1",19,0,0,"no","no",0
+"luthar_1999",5,-0.1,0.00838983050847458,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.0169661376625,100,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",6,-0.27,0.00652887323943662,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.2719093233487,0,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",7,0.03,0.0100919191919192,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.1670885049552,100,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",8,-0.03,0.00825702479338843,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.1140180266462,0,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",9,0.25,0.00794491525423729,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.1341735201166,100,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",10,0.12,0.00694084507042254,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.1326343868184,0,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",11,0.06,0.0100646464646465,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.2306799274706,100,0,0,0,0,"0",3,0,0,"no","yes",0
+"luthar_1999",12,0.14,0.00810247933884298,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",15.9895029787999,0,0,0,0,0,"0",3,0,0,"no","yes",0
+"Luthar_2002",1,-0.05,0.0108423913043478,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.8639413315803,100,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",2,-0.26,0.01295,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.6754655402154,0,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",3,0.18,0.0148861538461538,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.3551872521173,100,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",4,-0.02,0.0153784615384615,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.3161003533285,0,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",5,0.15,0.010625,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.3782903169747,100,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",6,0.12,0.0136888888888889,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.7123386850115,0,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",7,0.03,0.0153707692307692,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.9003632091451,100,0,0,0,0,"0",6,0,0,"no","no",0
+"Luthar_2002",8,0.25,0.0144230769230769,"Sociometric Likeability","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.1027265721466,0,0,0,0,0,"0",6,0,0,"no","no",0
+"Malamut_2020",5,0.14,0.00117132616487455,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"0",24,0,0,"no","no",0
+"Malamut_2020",6,0.15,0.00116786140979689,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",7,0.15,0.00116786140979689,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",8,0.07,0.00118888888888889,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",9,0.22,0.00113691756272401,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"0",24,0,0,"no","no",0
+"Malamut_2020",10,0.26,0.00111397849462366,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",11,0.05,0.00119175627240143,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",12,-0.04,0.00119283154121864,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",13,0.3,0.00108721624850657,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,100,1,0,0,0,"0",24,0,1,"no","no",0
+"Malamut_2020",14,0.05,0.00119175627240143,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"0",24,0,0,"no","no",0
+"Malamut_2020",15,0.17,0.00116021505376344,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",16,0.09,0.00118506571087216,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",17,0.09,0.00118506571087216,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",18,0.1,0.00118279569892473,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"0",24,0,0,"no","no",0
+"Malamut_2020",19,0.16,0.00116415770609319,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,0,"no","no",0
+"Malamut_2020",20,0.27,0.00110764635603345,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",21,0.36,0.00103990442054958,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"1",24,0,1,"no","no",0
+"Malamut_2020",22,0.35,0.00104838709677419,"Sociometric Popularity","Alcohol Use","Recent Use","Frequency of Use",13.36,0,1,0,0,0,"0",24,0,1,"no","no",0
+"Mathys_2013",1,0.19,0.0021515625,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"Mathys_2013",2,0.13,0.00219441964285714,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,1,"no","no",0
+"Mathys_2013",3,0.23,0.0021140625,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,0,"no","no",0
+"Mathys_2013",4,0.21,0.00213370535714286,"Sociometric Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"Mathys_2013",5,0.15,0.00218191964285714,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"Mathys_2013",6,0.09,0.0022140625,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,1,"no","no",0
+"Mathys_2013",7,0.15,0.00218191964285714,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,0,"no","no",0
+"Mathys_2013",8,0.07,0.00222120535714286,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"Mathys_2013",9,0.15,0.00218191964285714,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"Mathys_2013",10,0.11,0.00220513392857143,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,1,"no","no",0
+"Mathys_2013",11,0.1,0.00220982142857143,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"1",17,0,0,"no","no",0
+"Mathys_2013",12,0.04,0.00222857142857143,"Sociometric Popularity","Nicotine Use","Recent Use","Frequency of Use",15.5,47,0,0,0,0,"0",17,0,0,"no","no",0
+"mayeux_2008",1,-0.11,0.00255271317829457,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.0874195820652,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",2,0.1,0.00255813953488372,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.1777647752315,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",3,0.12,0.00254677002583979,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",18.6042066661175,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",4,0.28,0.00238139534883721,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",14.6066860235296,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",5,0.03,0.00258165374677003,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",15.2367264647037,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",6,0.03,0.00258165374677003,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",15.0041631106287,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",7,-0.07,0.00257131782945736,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",14.2450519951526,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",8,0.31,0.00233565891472868,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",14.9777724579908,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",9,-0.14,0.00253333333333333,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.2209173517767,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",10,0.04,0.00257984496124031,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.631401769584,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",11,-0.08,0.00256744186046512,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",14.6633811886422,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",12,0.22,0.00245891472868217,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",15.0853841982316,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",13,-0.05,0.00257751937984496,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",15.918897733558,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",14,0.01,0.00258372093023256,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",17.1328068615403,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",15,-0.05,0.00257751937984496,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",17.591658687219,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",16,0.3,0.00235142118863049,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",15.7906601692084,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",17,-0.13,0.00254031007751938,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",14.9511654172093,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",18,0.06,0.00257467700258398,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",15.3986548793036,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",19,-0.05,0.00257751937984496,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",18.4456587464083,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",20,0.16,0.00251782945736434,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",14.068858533632,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",21,0.01,0.00258372093023256,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.8771197244059,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",22,0.07,0.00257131782945736,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",14.2475995011628,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",23,0,0.00258397932816538,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",18.3661736871582,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",24,0.76,0.00109147286821705,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",16.2056060808245,44,0,0,0,0,"1",12,0,0,"no","no",0
+"mayeux_2008",25,-0.17,0.0025093023255814,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",14.1820775517263,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",26,0.22,0.00245891472868217,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",17.2382331532426,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",27,-0.15,0.00252583979328165,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",16.69070546492,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",28,0.26,0.0024093023255814,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",17.4705694322474,44,0,0,0,0,"1",12,0,1,"no","no",0
+"mayeux_2008",29,0.02,0.00258294573643411,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",17.0335926660337,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",30,0.11,0.00255271317829457,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",18.6861296857242,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",31,-0.01,0.00258372093023256,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",17.9659819588996,44,0,0,0,0,"0",12,0,0,"no","no",0
+"mayeux_2008",32,0.21,0.00247002583979328,"Sociometric Likeability","Alcohol Use","Recent Use","Frequency of Use",17.7244020448998,44,0,0,0,0,"0",12,0,0,"no","no",0
+"McDonough_2015",1,-0.03,0.000515531475748194,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",2,-0.05,0.000514705882352941,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",3,-0.02,0.000515789473684211,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",4,-0.02,0.000515789473684211,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",5,-0.06,0.000514138286893705,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",6,-0.05,0.000514705882352941,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",7,-0.01,0.000515944272445821,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",8,-0.04,0.000515170278637771,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",9,-0.06,0.000514138286893705,"Support from Friends","Alcohol Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",10,0,0.000515995872033024,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",11,-0.01,0.000515944272445821,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",12,-0.02,0.000515789473684211,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",13,0.02,0.000515789473684211,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",14,-0.02,0.000515789473684211,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",15,-0.03,0.000515531475748194,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",16,0.02,0.000515789473684211,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",17,-0.02,0.000515789473684211,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",18,-0.03,0.000515531475748194,"Support from Friends","Nicotine Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",19,0.02,0.000515789473684211,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",20,-0.02,0.000515789473684211,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",21,-0.01,0.000515944272445821,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",22,-0.01,0.000515944272445821,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",23,-0.03,0.000515531475748194,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",24,-0.06,0.000514138286893705,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",25,-0.01,0.000515944272445821,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",26,-0.01,0.000515944272445821,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",27,-0.03,0.000515531475748194,"Support from Friends","Marijuana Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",28,-0.02,0.000515789473684211,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",29,-0.01,0.000515944272445821,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",30,-0.01,0.000515944272445821,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",31,-0.03,0.000515531475748194,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",32,-0.05,0.000514705882352941,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",33,-0.07,0.000513467492260062,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,1,"no","no",0
+"McDonough_2015",34,-0.02,0.000515789473684211,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",35,-0.04,0.000515170278637771,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McDonough_2015",36,-0.04,0.000515170278637771,"Support from Friends","Other Drug Use","Recent Use","Any Use",12.2,52,0,1,0,0,"1",19,0,0,"no","no",0
+"McKay_2017",1,-0.08,0.000554155047406581,"Loneliness","Alcohol Use","Recent Use","Problem",13.1964846393093,52.9,1,0,0,0,"0",21,0,0,"no","no",0
+"McKay_2017",2,-0.03,0.000557222532069158,"Loneliness","Alcohol Use","Recent Use","Problem",13.5397416986525,52.9,1,0,0,0,"1",21,0,0,"no","no",0
+"McKay_2017",3,0,0.000557724484104852,"Loneliness","Alcohol Use","Recent Use","Problem",13.714826896321,52.9,1,0,0,0,"0",21,0,0,"no","no",0
+"McKay_2017",4,-0.02,0.00055750139431121,"Loneliness","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.7166876376141,52.9,1,0,0,0,"0",21,0,0,"no","no",0
+"McKay_2017",5,-0.05,0.00055633017289459,"Loneliness","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.8605310115963,52.9,1,0,0,0,"1",21,0,0,"no","no",0
+"McKay_2017",6,0,0.000557724484104852,"Social Competency","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.9502160558477,52.9,1,0,0,0,"1",21,0,1,"no","no",0
+"McKay_2017",7,0.08,0.000554155047406581,"Social Competency","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.5170206760522,52.9,1,0,0,0,"0",21,0,0,"no","no",0
+"McKay_2017",8,-0.01,0.000557668711656442,"Social Competency","Alcohol Use","Recent Use","Problem",13.4239413314499,52.9,1,0,0,0,"1",21,0,1,"no","no",0
+"mcleod_2012",2,-0.049,1.61806046647419e-05,"aaSociometric Friendship","Compound Measure of Drug Use","Recent Use","Frequency of Use",16.1346956675407,48.9,0,0,0,0,"0",16,0,0,"no","no",1
+"mcleod_2012",3,-0.015,1.62158984007526e-05,"aaSociometric Friendship","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.1063287302386,48.9,0,0,0,0,"0",16,0,0,"no","no",1
+"MeiselB_2017",1,0.08,0.00258077922077922,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"0",21,0,0,"no","no",0
+"MeiselB_2017",2,0.13,0.00255350649350649,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"MeiselB_2017",3,0.08,0.00258077922077922,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"MeiselB_2017",4,0.11,0.00256597402597403,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"MeiselB_2017",5,0.03,0.00259506493506493,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,1,"no","no",0
+"MeiselB_2017",6,0.15,0.00253896103896104,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"0",21,0,0,"no","no",0
+"MeiselB_2017",7,0.04,0.00259324675324675,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"MeiselB_2017",8,0.13,0.00255350649350649,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"MeiselB_2017",9,0.02,0.00259636363636364,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,1,"no","no",0
+"MeiselB_2017",10,0.1,0.00257142857142857,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,1,"no","no",0
+"MeiselB_2017",11,0.1,0.00257142857142857,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"0",21,0,0,"no","no",0
+"MeiselB_2017",12,0.12,0.00256,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.6,45,0,0,0,0,"1",21,0,0,"no","no",0
+"michell_2000",1,0.250841810299765,0.0755051230496408,"Sociometric Isolation","Nicotine Use","Lifetime Use","Quantity of Use",12.8903518805746,0,1,0,0,0,"1",4,0,0,"no","no",0
+"michell_2000",2,-0.131619844886521,0.0239679736736479,"Sociometric Isolation","Nicotine Use","Lifetime Use","Quantity of Use",12.972694166936,0,1,0,0,0,"1",4,0,0,"no","no",0
+"michell_2000",3,-0.11993919482644,0.0566506509032138,"Sociometric Isolation","Nicotine Use","Lifetime Use","Quantity of Use",12.0219176714309,100,1,0,0,0,"1",4,0,0,"no","no",0
+"michell_2000",4,-0.352915161461918,0.0249631861964594,"Sociometric Isolation","Nicotine Use","Lifetime Use","Quantity of Use",12.292772090761,100,1,0,0,0,"1",4,0,0,"no","no",0
+"michell_2000",5,0.192949963712249,0.0288354465387097,"Sociometric Isolation","Compound Measure of Drug Use","Lifetime Use","Any Use",12.9931403612718,53,1,0,0,0,"1",4,0,0,"no","no",0
+"michell_2000",6,-0.127113680123781,0.0112657978061214,"Sociometric Isolation","Compound Measure of Drug Use","Lifetime Use","Any Use",12.1724511496723,53,1,0,0,0,"1",4,0,0,"no","no",0
+"Otten_2008",1,0.04,0.00496716417910448,"Sociometric Likeability","Nicotine Use","Recent Use","Quantity of Use",10.93,48.27,0,0,0,0,"1",12,0,0,"no","no",0
+"Otten_2008",2,-0.04,0.00496716417910448,"Sociometric Likeability","Nicotine Use","Recent Use","Quantity of Use",10.93,48.27,0,0,0,0,"1",12,0,0,"no","no",0
+"Otten_2008",3,-0.08,0.00494328358208955,"Sociometric Likeability","Nicotine Use","Recent Use","Quantity of Use",10.93,48.27,0,0,0,0,"1",12,0,0,"no","no",0
+"Page_2006",1,0.0389694244731828,0.0579676696488571,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.5871566447895,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",2,0.168768634613048,0.05087039765098,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.6787987316493,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",3,0.320242357743964,0.0401696514715388,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.0767160241958,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",4,0.130991657606926,0.00419416880316471,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.002013056539,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",5,0.286512371020028,0.00348785753369471,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.9494963116013,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",6,0.164745581442562,0.00191691936825335,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.0107257377822,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",7,-0.139267619597832,0.0410759955359446,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.493885277072,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",8,0.0179680523535413,0.0322642473617016,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.3609961676411,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",9,0.208134742796218,0.0371092788482188,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.3148634685203,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",10,0.156965818157137,0.00259473010373615,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.6005375571549,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",11,0.333583295375987,0.00202104042734854,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.383731480455,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",12,0.191398358251138,0.00146613140095817,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.5254009629134,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",13,0.0466098639713559,0.0376195226031035,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.2339662539307,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",14,0.192853145974988,0.0319418209832643,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.8959290850908,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",15,0.266887420570143,0.0303610349746947,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.926508864155,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",16,0.148134726898444,0.00305889617561593,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.9863215209916,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",17,0.224840033395922,0.00448909907495403,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.0194817171432,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",18,0.081016731788388,0.00326024739625106,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.2985367905349,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",19,0.0384342244176555,0.0168310792463893,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.3928500993643,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",20,0.137853999147035,0.0147788022525848,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.5971835453529,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",21,0.280783947738562,0.0131142616000879,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.1159663682338,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",22,0.10016268421834,0.00226251983687754,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.0277944591362,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",23,0.246552371021839,0.00285072814782847,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.895662519848,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",24,0.152169296242072,0.00206717322548935,"Social Competency","Nicotine Use","Recent Use","Frequency of Use",16.0114630220924,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",25,0.0610952697203488,0.00194098132609387,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.7903685490601,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",26,0.0597756474357449,0.00605127753561016,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.5655971299857,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",27,0.175248058823833,0.00409963655517576,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.5925811689813,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",28,0.428888789506283,0.00141111828026542,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.8761959520634,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",29,0,0,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.8160240328871,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",30,0.129974321326907,0.00484858083724309,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.8976656368468,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",31,0.397277718245653,0.00194527214867495,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.5938423976768,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",32,0.130339621550338,0.00883385231990444,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.0563556561247,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",33,0.371220188455315,0.0048387952440922,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.211657683365,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",34,0.279982594745528,0.00445264420416916,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.0585884891916,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",35,0.0878938101800707,0.0015746948037654,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.7597687854432,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",36,0.229039333589907,0.00330318700540072,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.1412484417669,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",37,0.325190798960043,0.00200800773311276,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.2321605316829,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",38,0.386126365776681,0.00132753885129195,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.0075638559647,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",39,0.145493990466349,0.00403738265785242,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.4258405910805,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",40,0.246728177132761,0.0026775939232687,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.2601827243343,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",41,0.311371671957476,0.00190093279914314,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.7053242523689,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",42,0.109003938680735,0.00520615468887144,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.6948882662691,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",43,0.179900205850435,0.00429604487601365,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.7382508974988,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Page_2006",44,0.0762917218715784,0.00349545354797628,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.6955696658697,44,1,0,0,0,"0",10,0,0,"no","no",0
+"Prinstein_2004",1,-0.08,0.0068054794520548,"Sociometric Likeability","Nicotine Use","Recent Use","Quantity of Use",17.6397111203987,0,0,0,0,0,"1",8,0,0,"no","no",0
+"Prinstein_2004",2,-0.01,0.0068486301369863,"Sociometric Likeability","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.4691850466188,0,0,0,0,0,"1",8,0,0,"no","no",0
+"Prinstein_2004",3,-0.23,0.00648698630136986,"Sociometric Likeability","Marijuana Use","Recent Use","Frequency of Use",16.4225773077924,0,0,0,0,0,"1",8,0,0,"no","no",0
+"Prinstein_2004",4,-0.12,0.00675068493150685,"Sociometric Likeability","Other Drug Use","Recent Use","Frequency of Use",10.0267906894442,0,0,0,0,0,"1",8,0,0,"no","no",0
+"Prinstein_2009",1,-0.09,0.00399959677419355,"Sociometric Likeability","Nicotine Use","Recent Use","Frequency of Use",13.4512403432745,39.6,0,0,0,0,"1",13,0,0,"no","no",0
+"Prinstein_2011",1,0.28,0.00275928143712575,"Sociometric Popularity","Nicotine Use","Recent Use","Quantity of Use",16.6124529712833,37.5,0,0,0,0,"0",15,0,0,"no","no",0
+"Prinstein_2011",2,0.17,0.00290748502994012,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",14.7216112155002,37.5,0,0,0,0,"0",15,0,0,"no","no",0
+"Prinstein_2011",3,0.18,0.00289700598802395,"Sociometric Popularity","Nicotine Use","Recent Use","Quantity of Use",16.8657144072931,37.5,0,0,0,0,"1",15,0,0,"no","no",0
+"Prinstein_2011",4,0.2,0.00287425149700599,"Sociometric Popularity","Marijuana Use","Recent Use","Frequency of Use",15.60356900841,37.5,0,0,0,0,"1",15,0,0,"no","no",0
+"Roberts_2015",1,0.168773612090358,0.00489684129180716,"aSelf-Reported Number of Friends","Nicotine Use","Recent Use","Any Use",16.8,49,0,0,0,0,"1",19,0,0,"no","no",0
+"Seidu_2020",1,-0.0186478408001216,0.00533925217219888,"Loneliness","Binge Drinking or Drunkenness","Recent Use","Any Use",14.847931122873,55.5,0,0,1,0,"0",24,0,0,"no","no",0
+"Seidu_2020",2,-0.146300850361595,0.00228915139406069,"Loneliness","Alcohol Use","Recent Use","Any Use",13.1281290953048,55.5,0,0,1,0,"0",24,0,0,"no","no",0
+"Tam_2014",1,-0.101,0.000278973788049605,"Support from Friends","Compound Measure of Drug Use","Lifetime Use","Frequency of Use",15.6750078592449,47.4,0,1,0,0,"0",18,0,0,"no","no",0
+"Tani_2001",1,0.0517818576552129,0.00236412036606021,"Sociometric Isolation","Alcohol Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",2,0.156498949088765,0.00307242548960746,"Sociometric Isolation","Alcohol Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",3,0.08384586079892,0.0056686297418496,"Sociometric Isolation","Alcohol Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",4,0.0263482133969226,0.00715440076775929,"Sociometric Isolation","Alcohol Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",5,0.111756586551661,0.00230597698997599,"Sociometric Isolation","Marijuana Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",6,0.13011523414016,0.00313467671715018,"Sociometric Isolation","Marijuana Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",7,0.0806536690570392,0.00567718155862498,"Sociometric Isolation","Marijuana Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",8,0.0827951234858558,0.00702947345866667,"Sociometric Isolation","Marijuana Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",9,0.106632244682615,0.00231256408403334,"Sociometric Isolation","Other Drug Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",10,0.114366722011715,0.00316668524075066,"Sociometric Isolation","Other Drug Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",11,0.0604971323691625,0.00572366552711962,"Sociometric Isolation","Other Drug Use","aNo Frequency Specified","Problem",16.61,100,0,0,0,0,"0",5,0,0,"no","no",0
+"Tani_2001",12,0.0809556713883994,0.0070355473217714,"Sociometric Isolation","Other Drug Use","aNo Frequency Specified","Problem",16.61,0,0,0,0,0,"0",5,0,0,"no","no",0
+"Tucker_2013",1,0.12,0.000537697763229678,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",2,0.08,0.000542062193126023,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",3,0.05,0.000544189852700491,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",4,0.01,0.000545499181669394,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",5,0.12,0.000537697763229678,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",6,0.1,0.000540098199672668,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",7,0.13,0.00053633387888707,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",8,0.05,0.000544189852700491,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",9,0.08,0.000542062193126023,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",10,0.05,0.000544189852700491,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",11,0.1,0.000540098199672668,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",12,0.02,0.000545335515548281,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",13,0.07,0.000542880523731588,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",14,0.09,0.00054113475177305,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",15,0.11,0.000538952536824877,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",16,0.04,0.00054468085106383,"Self-Rated Popularity","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",17,0.06,0.000543589743589744,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",18,0.11,0.000538952536824877,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",19,0.03,0.00054506273867976,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",20,0.06,0.000543589743589744,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",21,0.04,0.00054468085106383,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",22,0.03,0.00054506273867976,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",23,0.05,0.000544189852700491,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",24,0.09,0.00054113475177305,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",25,0.02,0.000545335515548281,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",26,0.04,0.00054468085106383,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",27,0.05,0.000544189852700491,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Tucker_2013",28,0.09,0.00054113475177305,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,0,"no","no",0
+"Tucker_2013",29,0.02,0.000545335515548281,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",30,0.03,0.00054506273867976,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",31,0.03,0.00054506273867976,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"1",17,0,1,"no","no",0
+"Tucker_2013",32,0.06,0.000543589743589744,"aaSociometric Friendship","Alcohol Use","Recent Use","Any Use",12,50.2,0,0,0,0,"0",17,0,0,"no","no",0
+"Vogel_2015",1,-0.0259893197461319,0.000399495376453004,"aaSociometric Friendship","Marijuana Use","Recent Use","Any Use",15.2,45,0,0,0,0,"1",19,0,0,"yes","yes",1
+"Vogel_2015",2,0.0108111243705119,1.64631873474854e-05,"aaSociometric Friendship","Marijuana Use","Recent Use","Any Use",15.2,45,0,0,0,0,"1",19,0,0,"yes","yes",1
+"Wahl_2007",1,0.767637776272535,0.000862377482688088,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.573337509064,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",2,-0.942301628851602,6.58803348682046e-05,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",16.717335491674,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",3,-0.899049071964549,0.000155742156549759,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",14.6449970197864,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",4,0.0330781766317244,0.00744355019426128,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",16.3912781151012,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",5,-0.0538429368894813,0.00936574658415362,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",15.5545338892844,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",6,-0.0219928517576855,0.0074550859209454,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",16.3466042475775,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",7,0.100688096482298,0.00727399996546112,"Loneliness","Nicotine Use","Recent Use","Frequency of Use",14.3160746898502,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",8,-0.0827542214842214,0.00927333007461066,"Loneliness","Nicotine Use","Recent Use","Frequency of Use",14.2584943789989,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Wahl_2007",9,0.00988622683712817,0.00746238478675161,"Loneliness","Nicotine Use","Recent Use","Frequency of Use",15.8204238631297,43,0,0,0,0,"0",11,0,0,"no","no",0
+"Walsh_2010",1,0.162,0.000278454675436088,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",13.8399792779237,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",2,0.004,0.000285954818415785,"Self-Rated Popularity","Nicotine Use","Recent Use","Frequency of Use",12.8166639823467,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",3,0.147,0.000279780097226194,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",14.7523273257539,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",4,0.054,0.000285125536173863,"Self-Rated Popularity","Nicotine Use","Recent Use","Frequency of Use",13.5315158804879,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",5,0.171,0.000277597655132971,"Time Spent with Friends","Binge Drinking or Drunkenness","Lifetime Use","Any Use",12.104094860144,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",6,-0.007,0.000285945381755791,"Self-Rated Popularity","Binge Drinking or Drunkenness","Lifetime Use","Any Use",13.7566512422636,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",7,0.14,0.00028035458964827,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",13.454057267867,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",8,-0.009,0.00028593623105519,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.8841464901343,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",9,0.246,0.00217473148148148,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",11.5795963620767,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",10,-0.057,0.00230729398148148,"Self-Rated Popularity","Nicotine Use","Recent Use","Frequency of Use",14.1109674153849,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",11,0.173,0.00224553472222222,"Time Spent with Friends","Nicotine Use","Recent Use","Frequency of Use",13.7785879913718,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",12,-0.061,0.00230620138888889,"Self-Rated Popularity","Nicotine Use","Recent Use","Frequency of Use",11.4051947388798,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",13,0.205,0.00221753472222222,"Time Spent with Friends","Binge Drinking or Drunkenness","Lifetime Use","Any Use",14.2563949124888,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",14,-0.04,0.00231111111111111,"Self-Rated Popularity","Binge Drinking or Drunkenness","Lifetime Use","Any Use",11.9978757631034,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",15,0.157,0.00225775694444444,"Time Spent with Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.5451365159824,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Walsh_2010",16,-0.069,0.00230379398148148,"Self-Rated Popularity","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",12.2416511308402,44,0,0,1,0,"0",14,0,0,"no","no",0
+"Wills_2004",1,0.03,0.00068058583106267,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",12.0108581772074,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",2,0.03,0.00068058583106267,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",12.0166320516728,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",3,0,0.000681198910081744,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",11.3888493194245,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",4,-0.03,0.00068058583106267,"Support from Friends","Marijuana Use","Recent Use","Frequency of Use",12.25857787719,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",5,0.04,0.000680108991825613,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",12.664284995757,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",11,0.06,0.000761773700305811,"Support from Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",14.1083844467066,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",12,0.07,0.000760779816513761,"Support from Friends","Nicotine Use","Recent Use","Frequency of Use",13.3714915541932,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",13,0.04,0.000763302752293578,"Support from Friends","Alcohol Use","Recent Use","Frequency of Use",14.3389018308371,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",14,0.03,0.000763837920489297,"Support from Friends","Marijuana Use","Recent Use","Frequency of Use",13.8906848919578,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",15,0.06,0.000761773700305811,"Support from Friends","Binge Drinking or Drunkenness","Recent Use","Frequency of Use",14.5241867932491,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",21,-0.16,0.000698995695839311,"Time Spent with Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",11.0174070429057,53,0,0,0,0,"0",8,0,0,"no","no",0
+"Wills_2004",22,-0.07,0.000784160756501182,"Time Spent with Friends","Compound Measure of Drug Use","Recent Use","Frequency of Use",14.0413993434049,53,0,0,0,0,"0",8,0,0,"no","no",0
